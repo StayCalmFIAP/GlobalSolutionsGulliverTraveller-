@@ -6,8 +6,6 @@
 
 header {
   width: 100%;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   justify-content: space-between;
   padding: 20px 20px 0 20px;
@@ -19,8 +17,6 @@ header .activate {
 }
 
 header .logo-box {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -45,8 +41,6 @@ header .logo-box img {
 }
 
 header .links-container {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
 }
 
@@ -98,7 +92,6 @@ main h1 {
 }
 
 main .article-container {
-  display: -ms-grid;
   display: grid;
   grid-template-columns: 1fr 1fr;
   margin-top: 15px;
@@ -172,7 +165,6 @@ main .options-container .info-container span {
 
 main .options-container section {
   margin-top: 10px;
-  display: -ms-grid;
   display: grid;
   grid-template-columns: 1fr;
 }
@@ -218,8 +210,6 @@ main .options-container section div div p {
 }
 
 main .fake-btn-container {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   align-items: center;
   transition: 0.3s;
