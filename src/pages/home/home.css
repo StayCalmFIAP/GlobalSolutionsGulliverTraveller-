@@ -144,8 +144,8 @@ main .options-container {
 main .options-container article {
   width: 100%;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: center; 
+  align-items: flex-start;
 }
 
 main .options-container .info-container {
